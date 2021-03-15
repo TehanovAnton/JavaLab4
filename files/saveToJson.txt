@@ -1,0 +1,1 @@
+[{"issueDate":"Jul 14, 6, 12:00:00 AM","validity":31,"owner":"q","password":1,"accountNumber":1,"balance":1,"kind":"q","status":"Opened","bankName":"q"},{"issueDate":"Aug 14, 7, 12:00:00 AM","validity":31,"owner":"w","password":2,"accountNumber":2,"balance":2,"kind":"w","status":"Opened","bankName":"w"}]

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<account>
+   <cardList>
+       <card>
+           <password>1</password>
+           <accountNumber>1</accountNumber>
+           <balance>1</balance>
+           <kind>q</kind>
+           <status>opened</status>
+           <bankName>q</bankName>
+           <issueDate>01/01/2021</issueDate>
+           <validity>31</validity>
+           <owner>q</owner>
+       </card>
+
+       <card>
+           <password>2</password>
+           <accountNumber>2</accountNumber>
+           <balance>2</balance>
+           <kind>w</kind>
+           <status>opened</status>
+           <bankName>w</bankName>
+           <issueDate>02/02/2021</issueDate>
+           <validity>31</validity>
+           <owner>w</owner>
+       </card>
+   </cardList>
+</account>
